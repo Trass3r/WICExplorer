@@ -129,7 +129,6 @@
       </PrecompiledHeader>
       <WarningLevel>Level4</WarningLevel>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
-      <TreatWarningAsError>true</TreatWarningAsError>
     </ClCompile>
     <Link>
       <AdditionalDependencies>windowscodecs.lib;Mscms.lib;comsupp.lib;%(AdditionalDependencies)</AdditionalDependencies>
@@ -169,7 +168,6 @@
       </PrecompiledHeader>
       <WarningLevel>Level4</WarningLevel>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
-      <TreatWarningAsError>true</TreatWarningAsError>
     </ClCompile>
     <Link>
       <AdditionalDependencies>windowscodecs.lib;Mscms.lib;comsupp.lib;%(AdditionalDependencies)</AdditionalDependencies>
